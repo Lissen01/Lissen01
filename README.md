@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Uriel. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-<h3 align="center">A Fascinated QA Automation Jr. - Multimedia Designer UX/UI</h3>
+<h3 align="center">A Fascinated QA Automation Jr. - Multimedia Designer UX/UI< from Argentina./h3>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lissen01" alt="Lissen01" /> </p>
