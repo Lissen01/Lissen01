@@ -1,4 +1,4 @@
-<h3> Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h1> Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 </br>
   <h2 align="center"> Estadisticas de Github 📈 </h2>
   
