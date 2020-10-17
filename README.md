@@ -1,10 +1,10 @@
 <h1 align="center"> Hi, I'm Uriel. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-<h3 align="center">A Fascinated QA Automation Jr. - Multimedia Designer UX/UI< from Argentina. </h3>
+<h3 align="center">A Fascinated QA Automation Jr. - Multimedia Designer UX/UI from Argentina. </h3>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lissen01" alt="Lissen01" /> </p>
 <h2>About me :</h2>
-<p>As a Developer and UX / UI Designer, I provide solutions and add value to projects in the Web Development environment, JAVA EE, BBDD (MongoDB), Spring JPA, mobile interface design, QA Automation (Lippia Framework) in Mobile, Api's and Performance environments. . Currently specializing in QA Automation with Serenity.
+<p>As a Developer and UX / UI Designer, I provide solutions and add value to projects in the Web Development environment, JAVA EE, BBDD (MongoDB), Spring JPA, mobile interface design, QA Automation (Lippia Framework) in Mobile, Api's and Performance environments. . Currently specializing in QA Automation with Selenium.
 I consider myself a person with a great facility to work in a team, providing new ideas and ways to always improve, improve myself, as well as being curious about new activities and Technologies in the Environment and tools.</p>
 </br>
 
